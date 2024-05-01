@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>文章 on 無別</title>
+    <link>https://wubie.dev/posts/</link>
+    <description>Recent content in 文章 on 無別</description>
+    <image>
+      <title>無別</title>
+      <url>https://wubie.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://wubie.dev/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.125.4</generator>
+    <language>zh</language>
+    <lastBuildDate>Wed, 01 May 2024 23:22:47 +0800</lastBuildDate>
+    <atom:link href="https://wubie.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Page</title>
+      <link>https://wubie.dev/posts/first-page/</link>
+      <pubDate>Wed, 01 May 2024 23:22:47 +0800</pubDate>
+      <guid>https://wubie.dev/posts/first-page/</guid>
+      <description>sdaflkjlasdfl</description>
+    </item>
+  </channel>
+</rss>
